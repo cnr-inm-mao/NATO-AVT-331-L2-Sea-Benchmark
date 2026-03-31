@@ -1,5 +1,7 @@
 # L2 Sea Benchmark
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 ## NATO AVT-331 — Goal-driven, multi-fidelity approaches for military vehicle system-level design
 
 **L2 Sea Benchmark**  
